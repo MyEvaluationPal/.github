@@ -1,9 +1,9 @@
+---
 name: Feature Request
 description: Request a new feature or system change
 title: "[FEATURE] "
 labels: []
 assignees: []
-
 ---
 
 ## Feature Summary
